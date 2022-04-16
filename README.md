@@ -2,7 +2,10 @@
 
 This project contains an express server application and a react app bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To get started run `npm run install:all` in the project directory
+To get started run `npm run install:all` in the project directory.
+
+After that:
+To start developing run `npm run dev` in the project directory to start the `express` server and the `React` app. Start coding!
 
 ## Available Scripts
 
